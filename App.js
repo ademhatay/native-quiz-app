@@ -1,8 +1,8 @@
-import { Onboarding } from './app/screens';
+import { Home } from './app/screens';
 
 
 export default function App() {
 	return <>
-		<Onboarding />
+		<Home />
 	</>
 }
