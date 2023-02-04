@@ -6,5 +6,5 @@ React Native Quiz App
  width="350" />
  
  
-Youtube
+Youtube:
 https://youtu.be/BHsqojDwsVg
